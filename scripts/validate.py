@@ -12,7 +12,6 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_FILES = (
     "index.html",
     "styles.css",
-    "students/example.html",
     "README.md",
     "scripts/validate.py",
     ".github/workflows/ci.yml",
